@@ -12,9 +12,9 @@ aplicando boas práticas de Clean Code e componentização.
 React | Next.js | TypeScript | Tailwind | Zustand | Firebase
 
 ## 🔥 Projetos em Destaque
-- 🍣 Sushi Master – Deploy
-- 📊 Calculadora IMC
-- 🖼 Galeria Photos
+- 🍣 [Sushi Master – Deploy](https://sushi-master-eta.vercel.app)
+- 📊 [Calculadora IMC](https://github.com/Nicolly95/react-calculadora-imc)
+- 🖼 [Galeria Photos](https://github.com/Nicolly95/galeria-photos)
 
 ## 📫 Contato
 [LinkedIn](https://linkedin.com/in/nicolly-k-0b0241160) | [Email](mailto:nicollykingeski@outlook.com)
