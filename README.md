@@ -17,5 +17,5 @@ React | Next.js | TypeScript | Tailwind | Zustand | Firebase
 - 🖼 Galeria Photos
 
 ## 📫 Contato
-LinkedIn: https://linkedin.com/in/nicolly-k-0b0241160
-Email: nicollykingeski@outlook.com
+[LinkedIn](https://linkedin.com/in/nicolly-k-0b0241160) | [Email](mailto:nicollykingeski@outlook.com)
+
