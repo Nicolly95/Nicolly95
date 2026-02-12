@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá, eu sou Nicolly
 
-<!--
-**Nicolly95/Nicolly95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedora Front-End  
+🚀 React • Next.js • TypeScript  
 
-Here are some ideas to get you started:
+## 🔥 Projetos em Destaque
+- 🍣 Sushi Master – Deploy
+- 📊 Calculadora IMC
+- 🖼 Galeria Photos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+LinkedIn: https://linkedin.com/in/nicolly-k-0b0241160
+Email: nicollykingeski@outlook.com
