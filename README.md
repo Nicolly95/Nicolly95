@@ -45,6 +45,7 @@ Jobs automatizados
 Docker
 
 ## 🔥 Projetos em Destaque
+- 🤖 [Hiperautomocao](https://github.com/Nicolly95/Hiperautomocao)
 - 🖼 [TaskManager](https://github.com/Nicolly95/task-manager) | https://nicolly-taskmanager.onrender.com/
 - 🍣 [Sushi Master – Deploy](https://sushi-master-eta.vercel.app)
 - 📊 [Calculadora IMC](https://github.com/Nicolly95/react-calculadora-imc)
